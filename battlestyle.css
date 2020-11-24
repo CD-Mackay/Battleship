@@ -1,0 +1,30 @@
+#boards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+#playerBoard {
+  border-style: ridge;
+  height: 500px;
+  width: 500px;
+}
+#opponentBoard {
+  border-style: ridge;
+  height: 500px;
+  width: 500px;
+}
+tr {
+  border-style: ridge;
+}
+th {
+  border-style: ridge;
+}
+td {
+  border-style: ridge;
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-spacing: 0;
+}
