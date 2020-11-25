@@ -25,6 +25,10 @@ td {
   margin: 0;
   padding: 0;
 }
+td:hover {
+  color: red;
+  background-color: red;
+} 
 table {
   border-spacing: 0;
 }
