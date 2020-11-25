@@ -4,6 +4,10 @@
   justify-content: space-around;
 
 }
+form {
+  margin: auto;
+  width: 40%;
+}
 #playerBoard {
   border-style: ridge;
   height: 500px;
